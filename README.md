@@ -12,6 +12,7 @@ The system is built using an Arduino Uno and integrates real-time sensor data, s
 
 
 ⚙️ Features
+
 🔍 Line Following using a 3-way IR sensor module
 
 🚧 Obstacle Detection using an HC-SR04 ultrasonic sensor

@@ -53,3 +53,7 @@ The code is written in **C/C++ using the Arduino IDE**, and is structured for mo
 - **Ultrasonic Sensor**: Triggers the obstacle avoidance mechanism  
 - **Servo Motor**: Scans multiple angles (0°–180°) to find the optimal direction  
 - **Motor Logic**: Handles navigation, forward/backward movement, and turning sequences 
+
+## Project Snapshot
+![Screenshot 2025-04-20 224342](https://github.com/user-attachments/assets/6a4f18a9-d5f3-427e-8cfa-b3013ba57ef9)
+

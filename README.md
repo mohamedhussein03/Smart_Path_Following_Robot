@@ -57,3 +57,6 @@ The code is written in **C/C++ using the Arduino IDE**, and is structured for mo
 ## Project Snapshot
 ![Screenshot 2025-04-20 224342](https://github.com/user-attachments/assets/6a4f18a9-d5f3-427e-8cfa-b3013ba57ef9)
 
+## Circuit Diagram
+![WhatsApp Image 2025-04-25 at 18 50 45_d95b2c9d](https://github.com/user-attachments/assets/0a0ef849-77b5-4f48-8386-0ab1e818dff1)
+
